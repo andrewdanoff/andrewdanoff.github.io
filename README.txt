@@ -20,8 +20,8 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Forty:
+		html5up.net | @ajlkn
 
 	Icons:
 		Font Awesome (fontawesome.io)
